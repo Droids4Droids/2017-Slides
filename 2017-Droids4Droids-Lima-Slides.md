@@ -23,7 +23,7 @@ Pablo Johnson :peru: [@pablojohnson88](https://twitter.com/pablojohnson88)
 ## Awat Balam - Keynote Talk
 Adrián Catalán :guatemala: [@ykro](https://twitter.com/ykro)
 
-Slides/Code: https://docs.google.com/presentation/d/1VQPiRJ-xwqVZ3uV5u-m8YqjqJsmke-wmU7R7Cfz1xsA/present
+Slides: https://docs.google.com/presentation/d/1VQPiRJ-xwqVZ3uV5u-m8YqjqJsmke-wmU7R7Cfz1xsA/present
 
 
 ## Building modular apps in Android
@@ -47,7 +47,8 @@ Edgar Marco Polo Galván de la Rosa :mexico: [@edgarmarcopolo](https://twitter.c
 ## Firebase Functions	
 Jorge Cajas :guatemala: [@jac_mota](https://twitter.com/jac_mota)
 
-* Slides: 
+* Slides: https://github.com/Motojo/Slides/blob/master/2017/Firebase%20Cloud%20Functions/Firebase%20Functions.pdf
+* Repo: https://github.com/Motojo/Slides/tree/master/2017/Firebase%20Cloud%20Functions
 
 
 ## Gradle para android developers
@@ -70,6 +71,12 @@ Bruno Aybar :peru: [@brunoaybarg](https://twitter.com/brunoaybarg)
 Jhoon Saravia :peru: [@jsaravia](https://twitter.com/jsaravia)
 
 * Slides: https://drive.google.com/file/d/0B3vrEE4XqcAvTlVBeWc3ZWN4NDQ/view
+
+
+## My TJBot is smarter than yours
+Sofía Cardenas :guatemala: [@SofiCardenas95](https://twitter.com/SofiCardenas95)
+
+* Slides: https://drive.google.com/file/d/0BwxdbbymLrX4eTM2RFV5WWtBRUk/view?usp=sharing
 
 
 ## Persistencia de datos en Android
@@ -106,12 +113,6 @@ José Manuel Rios Vega :peru: [@manumanurv](https://twitter.com/manumanurv)
 Kerry Pérez :peru: [@kerpie](https://twitter.com/kerpie)
 
 * Slides:  https://docs.google.com/presentation/d/1shVHb4nr68LLxV_ciqc1G43fuEzkFbi6wkAYmlFnD2s/present
-
-
-## ???????????????????
-Sofía Cardenas :guatemala: [@](https://twitter.com/)
-
-* Slides: 
 
 
 ## ???????????????????
