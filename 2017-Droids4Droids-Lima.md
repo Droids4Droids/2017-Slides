@@ -102,6 +102,12 @@ José Manuel Rios Vega :peru: [@manumanurv](https://twitter.com/manumanurv)
 * Slides: https://docs.google.com/presentation/d/1xDXqGaI7crEn_s66Ey3r--ePpW4sbUuz0z2Bvpcg2Yc/present
 
 
+## Volando alto con Android
+Kerry Pérez :peru: [@kerpie](https://twitter.com/kerpie)
+
+* Slides:  https://docs.google.com/presentation/d/1shVHb4nr68LLxV_ciqc1G43fuEzkFbi6wkAYmlFnD2s/present
+
+
 ## ???????????????????
 Sofía Cardenas :guatemala: [@](https://twitter.com/)
 
@@ -110,10 +116,5 @@ Sofía Cardenas :guatemala: [@](https://twitter.com/)
 
 ## ???????????????????
 Isabel Palomar :mexico: [@isabelpalomar](https://twitter.com/isabelpalomar)
-
-* Slides:  
-
-## ???????????????????
-Kerry Pérez :peru: [@kerpie](https://twitter.com/kerpie)
 
 * Slides:  
