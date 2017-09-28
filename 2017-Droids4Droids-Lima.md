@@ -73,13 +73,13 @@ Jhoon Saravia [@jsaravia](https://twitter.com/jsaravia)
 
 
 ## Persistencia de datos en Android
-Brian Castillo Trujillo [@parrots](https://twitter.com/parrots)
+Brian Castillo Trujillo [@](https://twitter.com/)
 
-* Slides: https://speakerdeck.com/parrots/360idev-designing-for-at-1x-at-3x-without-going-crazy
+* Slides: 
 
 
 ## Realidad Virtual para Todos
-Elvis Rivera Cotrina [@parrots](https://twitter.com/parrots)
+Elvis Rivera Cotrina [Facebook](https://www.facebook.com/elvis.rivera)
 * Slides: https://docs.google.com/presentation/d/1gXPx-C18QUcv5AG2SNCG9hEa0fI_wnr6yF2WfdiohVw/present
           https://docs.google.com/presentation/d/1NrHhBzr3CnPybBIcYbaq72z1dPzNJPu69z0OJH32cGE/present
 
