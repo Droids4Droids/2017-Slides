@@ -6,11 +6,6 @@ A collection of links to slide decks and source code from talks at Droids4Droids
 
 -----
 
-# Photos
-
-Official Flickr photoset: https://www.flickr.com/photos/abunur/sets/72157655001424693
-
-Flickr group pool (add your own photos here!): https://www.flickr.com/groups/2898833@N22/
 
 -----
 
