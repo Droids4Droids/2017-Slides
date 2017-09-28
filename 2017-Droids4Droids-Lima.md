@@ -33,7 +33,7 @@ Eduardo Medina :peru: [@eduardomedina](https://twitter.com/eduardomedina)
 
 
 ## Cómo desarrollar un app y no morir en el intento
-Yahyr Paredes :peru: :star: [@killerypa](https://twitter.com/killerypa)
+Yahyr Paredes :peru: :new: [@killerypa](https://twitter.com/killerypa)
 
 * Slides: https://docs.google.com/presentation/d/1weSO509_NccnrvzdjlLId4p0lwQg8splzgt6FPkvnG4/present
 
@@ -91,7 +91,7 @@ Andrés Vasquez Agramont :bolivia: [@Andres_vasquezA](https://twitter.com/Andres
 
 
 ## Transiciones en Android
-Christopher Cárdenas Pacheco :peru: :star: [@cap7](https://twitter.com/cap7)
+Christopher Cárdenas Pacheco :peru: :new: [@cap7](https://twitter.com/cap7)
 
 * Slides: https://docs.google.com/presentation/d/1RmU3nru9rt0JfphJr3NfN08RwwFrNkYLND0y0MXrQ7Q/present
 
