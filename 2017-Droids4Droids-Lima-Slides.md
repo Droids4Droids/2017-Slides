@@ -41,7 +41,7 @@ Yahyr Paredes :peru: :new: [@killerypa](https://twitter.com/killerypa)
 ## El ciclo de vida (completo) de Activity y Fragment
 Edgar Marco Polo Galván de la Rosa :mexico: [@edgarmarcopolo](https://twitter.com/edgarmarcopolo)
 
-* Slides: 
+* Slides: https://docs.google.com/presentation/d/1XMJUTAJb6JcJWeHAjsBHusNZk-XMQkH9TgvpJdOF3Ac/edit?usp=sharing
 
 
 ## Firebase Functions	
