@@ -23,7 +23,7 @@ Pablo Johnson :peru: [@pablojohnson88](https://twitter.com/pablojohnson88)
 ## Awat Balam - Keynote Talk
 Adrián Catalán :guatemala: [@ykro](https://twitter.com/ykro)
 
-Slides: https://docs.google.com/presentation/d/1VQPiRJ-xwqVZ3uV5u-m8YqjqJsmke-wmU7R7Cfz1xsA/present
+* Slides: https://docs.google.com/presentation/d/1VQPiRJ-xwqVZ3uV5u-m8YqjqJsmke-wmU7R7Cfz1xsA/present
 
 
 ## Building modular apps in Android
@@ -94,7 +94,7 @@ Elvis Rivera Cotrina :peru: [Facebook](https://www.facebook.com/elvis.rivera)
 ## Reinventing Retail flows with Android and RFID
 Andrés Vasquez Agramont :bolivia: [@Andres_vasquezA](https://twitter.com/Andres_vasquezA)
 
-* Slides: 
+* Slides: https://docs.google.com/presentation/d/1rX2ZPoBQvpLhY7s_3oC84q-Wk7W6PW3eNm4oi9CsP9k/present
 
 
 ## Transiciones en Android
