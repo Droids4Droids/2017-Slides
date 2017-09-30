@@ -59,7 +59,7 @@ Ronald Velásquez García :peru: [@ervelasquez](https://twitter.com/ervelasquez)
 ## Introducción a BLE y GATT
 Diego Ramirez :mexico: [@diegop88](https://twitter.com/diegop88)
 
-* Slides: 
+* Slides: https://docs.google.com/presentation/d/1Vu9MAEwte69UKUKondQc4cXAeLLBqxbdU7vSYmxCN8E/present
 
 ## Kotlin en Fandango Latam
 Bruno Aybar :peru: [@brunoaybarg](https://twitter.com/brunoaybarg)
