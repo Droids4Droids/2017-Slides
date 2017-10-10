@@ -24,6 +24,7 @@ Pablo Johnson :peru: [@pablojohnson88](https://twitter.com/pablojohnson88)
 Adrián Catalán :guatemala: [@ykro](https://twitter.com/ykro)
 
 * Slides: https://docs.google.com/presentation/d/1VQPiRJ-xwqVZ3uV5u-m8YqjqJsmke-wmU7R7Cfz1xsA/present
+* Video : https://www.facebook.com/upcedu/videos/10154762695411965/  (Spanish, MQ )
 
 
 ## Building modular apps in Android
