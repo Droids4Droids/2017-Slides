@@ -41,7 +41,7 @@ Yahyr Paredes :peru: :new: [@killerypa](https://twitter.com/killerypa)
 ## El ciclo de vida (completo) de Activity y Fragment
 Edgar Marco Polo Galván de la Rosa :mexico: [@edgarmarcopolo](https://twitter.com/edgarmarcopolo)
 
-* Slides: https://docs.google.com/presentation/d/1XMJUTAJb6JcJWeHAjsBHusNZk-XMQkH9TgvpJdOF3Ac/edit?usp=sharing
+* Slides:https://docs.google.com/presentation/d/1XMJUTAJb6JcJWeHAjsBHusNZk-XMQkH9TgvpJdOF3Ac/present
 
 
 ## Firebase Functions	
@@ -80,9 +80,9 @@ Sofía Cardenas :guatemala: [@SofiCardenas95](https://twitter.com/SofiCardenas95
 
 
 ## Persistencia de datos en Android
-Brian Castillo Trujillo :peru: [@](https://twitter.com/)
+Brian Castillo Trujillo :peru: [@briansalvattore](https://twitter.com/briansalvattore)
 
-* Slides: 
+* Slides: https://docs.google.com/presentation/d/1wYjxq_J2c7JO_in8yyXgxMKvrSodTpaNZuC5KjDBKrQ/present
 
 
 ## Realidad Virtual para Todos
