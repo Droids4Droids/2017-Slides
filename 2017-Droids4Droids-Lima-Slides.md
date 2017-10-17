@@ -75,7 +75,7 @@ Jhoon Saravia :peru: [@jsaravia](https://twitter.com/jsaravia)
 
 
 ## My TJBot is smarter than yours
-Sofía Cardenas :guatemala: [@SofiCardenas95](https://twitter.com/SofiCardenas95)
+Sofí Cardenas :guatemala: [@SofiCardenas95](https://twitter.com/SofiCardenas95)
 
 * Slides: https://drive.google.com/file/d/0BwxdbbymLrX4eTM2RFV5WWtBRUk/view?usp=sharing
 
