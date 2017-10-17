@@ -3,7 +3,7 @@
 A collection of links to slide decks and source code from talks at [Droids4Droids](http://droids4droids.com).
 
 * [Droids4Droids Lima 2017](2017-Droids4Droids-Lima-Slides.md)
-
+* [Droids4Droids Guatemala 2017](2017-Droids4Droids-Guatemala-Slides.md)
 
 ## Contributing
 
