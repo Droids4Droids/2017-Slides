@@ -48,7 +48,7 @@ Fernando Javier Batres Velásquez :guatemala: [@fjbatresv](https://twitter.com/f
 ## Flying a paper plane with Bluetooth
 Hansy Schmitt :peru: [@_hacksy](https://twitter.com/_hacksy)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/1a0oPNUgpG_Wy0oZRut8Aq-J5C31buAMOm1RZidaKp_4/present
 
 
 ## Google Cloud Endpoints, generando una API elástica para Android
