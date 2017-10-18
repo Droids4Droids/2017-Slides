@@ -84,7 +84,7 @@ Cristian Gomez :colombia: [@iyubinest](https://twitter.com/iyubinest)
 ## Seguridad en Android
 Lesther Vega :guatemala: [@punkete1990](https://twitter.com/punkete1990)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/1uK6lkt3RG5AWkcamXP-DLSU0lFh-non_42279INq8zw/present
 
 
 ## Smart Device Link y OpenXC con Android
