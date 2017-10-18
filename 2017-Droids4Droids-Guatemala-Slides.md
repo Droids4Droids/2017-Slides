@@ -64,7 +64,7 @@ Kerry T. Pérez Huanca :peru: [@kerpie](https://twitter.com/kerpie)
 
 
 ## Material Design
-Carmen González :guatemala: [@](https://twitter.com/)
+Carmen González :guatemala: [@caluuuux](https://twitter.com/caluuuux)
 
 * Slides:
 
@@ -93,6 +93,6 @@ Victor Peñaloza :guatemala: [@victor_sergio](https://twitter.com/victor_sergio)
 
 * Slides:
 ## VR/AR With Unity
-Yosef Maldonado :guatemala: [@](https://twitter.com/)
+Yosef Maldonado :guatemala: [@ivanyosefma](https://twitter.com/ivanyosefma)
 
 * Slides:
