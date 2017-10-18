@@ -82,7 +82,7 @@ Cristian Gomez :colombia: [@iyubinest](https://twitter.com/iyubinest)
 
 
 ## Seguridad en Android
-Lesther Vega :guatemala: [@](https://twitter.com/)
+Lesther Vega :guatemala: [@punkete1990](https://twitter.com/punkete1990)
 
 * Slides:
 
