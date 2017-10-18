@@ -60,7 +60,7 @@ Antonio Guzmán :mexico: [@tonioguzmanf](https://twitter.com/tonioguzmanf)
 ## Llevando Android a nuevas alturas (literalmente)
 Kerry T. Pérez Huanca :peru: [@kerpie](https://twitter.com/kerpie)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/1shVHb4nr68LLxV_ciqc1G43fuEzkFbi6wkAYmlFnD2s/present
 
 
 ## Material Design
