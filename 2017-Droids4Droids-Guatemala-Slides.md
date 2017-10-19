@@ -78,7 +78,7 @@ Carlos Daniel Muñoz Idarraga :colombia: [@cdmunozi](https://twitter.com/cdmunoz
 ## Programacion funcional, aplicando modelado orientado a tipos
 Cristian Gomez :colombia: [@iyubinest](https://twitter.com/iyubinest)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/11M_UaACRofmiHU5VdT9PAzOPtoPd6AbdXPMcfG4hZLw/present
 
 
 ## Seguridad en Android
