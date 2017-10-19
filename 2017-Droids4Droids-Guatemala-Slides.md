@@ -36,13 +36,13 @@ Ceci Castillo :guatemala: [@zezzi](https://twitter.com/zezzi)
 ## Firebase Functions
 Jorge Alejandro Cajas Mota :guatemala: [@jac_mota](https://twitter.com/jac_mota)
 
-* Slides:
+* Slides: https://github.com/Motojo/Slides/blob/master/2017/Firebase%20Cloud%20Functions/Firebase%20Functions.pdf
 
 
 ## Firebase y Android
 Fernando Javier Batres Velásquez :guatemala: [@fjbatresv](https://twitter.com/fjbatresv)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/1QalyUY_QsBVwf3YBU5wrEPFnhneh-2ea5MQ3-0wSR_A/present
 
 
 ## Flying a paper plane with Bluetooth
@@ -72,7 +72,7 @@ Carmen González :guatemala: [@caluuuux](https://twitter.com/caluuuux)
 ## Performance en Android para todos!
 Carlos Daniel Muñoz Idarraga :colombia: [@cdmunozi](https://twitter.com/cdmunozi)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/1NVAVnzIY1__8Ym0_rIfEe6iJUtztx_-BwVuKt7H-7uM/present
 
 
 ## Programacion funcional, aplicando modelado orientado a tipos
