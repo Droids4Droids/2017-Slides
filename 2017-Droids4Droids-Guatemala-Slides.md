@@ -18,7 +18,7 @@ _Sessions are listed alphabeticaly by session name_
 ## Android Architecture Components
 Francisco Anzueto :guatemala: [@franzueto](https://twitter.com/franzueto)
 
-* Slides: 
+* Slides: https://docs.google.com/presentation/d/1-O3S49vxNxopPEfDgh4B6Xb5J17YkX8NeXsqzoIDNMA/present
 
 
 ## Android Things
