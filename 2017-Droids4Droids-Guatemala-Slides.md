@@ -91,8 +91,10 @@ Lesther Vega :guatemala: [@punkete1990](https://twitter.com/punkete1990)
 Victor Peñaloza :guatemala: [@victor_sergio](https://twitter.com/victor_sergio)
 
 
-* Slides:
+* Slides: https://drive.google.com/file/d/0B9hFruWI9Q73cFZ3cXFlWFJMYWs/view
+
+
 ## VR/AR With Unity
 Yosef Maldonado :guatemala: [@ivanyosefma](https://twitter.com/ivanyosefma)
 
-* Slides:
+* Slides: https://docs.google.com/presentation/d/1z0fwTHjxacmVAOSXZzQHqAflsSsI9JThSfh7sU-LZ1Y/present
