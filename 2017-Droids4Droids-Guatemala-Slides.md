@@ -66,7 +66,7 @@ Kerry T. Pérez Huanca :peru: [@kerpie](https://twitter.com/kerpie)
 ## Material Design
 Carmen González :guatemala: [@caluuuux](https://twitter.com/caluuuux)
 
-* Slides:
+* Slides: https://drive.google.com/file/d/0BwxdbbymLrX4TE16Xy1saGp1dzQ/view
 
 
 ## Performance en Android para todos!
