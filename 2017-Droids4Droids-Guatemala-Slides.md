@@ -30,7 +30,7 @@ Sofi Cárdenas :guatemala: [@SofiCardenas95](https://twitter.com/SofiCardenas95)
 ## Darwin lo predijo: la evolución del desarrollo para móviles con Kotlin y Swift
 Ceci Castillo :guatemala: [@zezzi](https://twitter.com/zezzi)
 
-* Slides:
+* Slides: https://speakerdeck.com/zezzi/kotlin-and-swift
 
 
 ## Firebase Functions
